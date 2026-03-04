@@ -1,0 +1,5 @@
+const o=`--- source: "https://droitromain.univ-grenoble-alpes.fr/Corpus/Ed5.htm" section: "novelas" book: "Novela 170" ---\r
+\r
+# Novela 170\r
+~ ED. V ~ CONSTITUTIO QUAE CENTUM ANNORUM PRAESCRIPTIONEM IN AEDIBUS SACRIS ABROGAT. ( AD ? ) ( Based upon the Latin text of Schoell and Kroll's edition ). Unknown text.\r
+`;export{o as default};

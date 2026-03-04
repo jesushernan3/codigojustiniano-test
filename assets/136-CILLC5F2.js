@@ -1,0 +1,5 @@
+const e=`--- source: "https://droitromain.univ-grenoble-alpes.fr/Corpus/Nov138.htm" section: "novelas" book: "Novela 136" ---\r
+\r
+# Novela 136\r
+~ NOV. CXXXVIII ~ DE USURIS SUPER DUPLUM NON CONPUTANDIS. ( AD ? ) ( Based upon the Latin text of Schoell and Kroll's edition ). ~ Text submitted by Dr. Ingo Maier ~ Imp. Iustinianus pp. Aug. Hermogeni magistro officiorum. Manifestissima est nostri numinis constitutio, quae usque ad dupli quantitatem exactionem debiti concludit Si igitur creditores tui quidam in duplum acceperunt, alii adhuc minus consecuti sunt, hi quidem qui in duplum ex usurarum quantitate per diversa tempora consecuti sunt, nullam adversus te inquietudinem proponere concedantur, alii autem, si simili modo repleti fuerint, eo modo silere conpellantur; et si debita sua consecuti fuerint, feneraticias cautiones recuperari, vel si remanserint, suis viribus vacare, si preces verae sunt, praesentis oraculi sanctione decernimus. ► Sources : Ep. Theod. 138 ; Iul. const. CXXXIII, App.\r
+`;export{e as default};

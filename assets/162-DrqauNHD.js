@@ -1,0 +1,5 @@
+const e=`--- source: "https://droitromain.univ-grenoble-alpes.fr/Corpus/Nov165.htm" section: "novelas" book: "Novela 162" ---\r
+\r
+# Novela 162\r
+~ NOV. CLXV ~ GENERALIS FORMA DE PROSPECTU MARIS SCRIPTA DOMlNICO GLORIOSISSIMO PRAEFECTO. ( AD ? ) ( Based upon the Latin text of Schoell and Kroll's edition ). ~ Translated from the Greek ~ Docuit nos Demetrius . . . . . Prospectus in mare intra centum pedes non solum ex directo, sed etiam per transversum novo opere impediri non decet. Hoc enim addit haec forma, quae Zenonis constitutionem servat et novellam interpretatur.\r
+`;export{e as default};

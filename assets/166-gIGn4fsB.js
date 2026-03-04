@@ -1,0 +1,5 @@
+const o=`--- source: "https://droitromain.univ-grenoble-alpes.fr/Corpus/Ed1.htm" section: "novelas" book: "Novela 166" ---\r
+\r
+# Novela 166\r
+~ ED. I ~ EDICTUM SCRIPTUM AD DEO CARISSIMOS UBIQUE TERRARUM EPISCOPOS ET SANCTISSIMOS PATRIARCHAS. ( AD ? ) ( Based upon the Latin text of Schoell and Kroll's edition ). Unknown text.\r
+`;export{o as default};
