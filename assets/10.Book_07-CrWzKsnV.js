@@ -1,4 +1,8 @@
-const e=`--- source: "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-07.htm" section: "digesto" book: "Libro 10" ---\r
+const e=`--- \r
+source: "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-07.htm" \r
+section: "digesto" \r
+book: "Libro 10" \r
+---\r
 \r
 # Libro 10\r
 ## Índice\r

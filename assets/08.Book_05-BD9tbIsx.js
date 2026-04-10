@@ -1,4 +1,8 @@
-const e=`--- source: "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-05.htm" section: "digesto" book: "Libro 8" ---\r
+const e=`--- \r
+source: "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-05.htm" \r
+section: "digesto" \r
+book: "Libro 8" \r
+---\r
 \r
 # Libro 8\r
 DOMINI NOSTRI SACRATISSIMI PRINCIPIS IUSTINIANI IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI DIGESTORUM SEU PANDECTARUM liber quintus ( Based upon the Latin text of Mommsen's edition ).\r

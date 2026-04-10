@@ -1,5 +1,5 @@
-const i=`--- s\r
-ource: "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ1.htm" \r
+const i=`---\r
+source: "https://droitromain.univ-grenoble-alpes.fr/Corpus/CJ1.htm" \r
 section: "codex" \r
 book: "Libro 1"\r
 ---\r

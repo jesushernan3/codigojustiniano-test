@@ -1,4 +1,8 @@
-const e=`--- source: "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-02.htm" section: "digesto" book: "Libro 5" ---\r
+const e=`--- \r
+source: "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-02.htm" \r
+section: "digesto" \r
+book: "Libro 5" \r
+---\r
 \r
 # Libro 5\r
 DOMINI NOSTRI SACRATISSIMI PRINCIPIS IUSTINIANI IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI DIGESTORUM SEU PANDECTARUM liber secundus ( Based upon the Latin text of Mommsen's edition ).\r

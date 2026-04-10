@@ -1,4 +1,8 @@
-const i=`--- source: "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-04.htm" section: "digesto" book: "Libro 7" ---\r
+const i=`--- \r
+source: "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-04.htm" \r
+section: "digesto" \r
+book: "Libro 7" \r
+---\r
 \r
 # Libro 7\r
 DOMINI NOSTRI SACRATISSIMI PRINCIPIS IUSTINIANI IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI DIGESTORUM SEU PANDECTARUM liber quartus ( Based upon the Latin text of Mommsen's edition ).\r
